@@ -3,7 +3,7 @@ body{
     background-color: #2F4F4F;
     background: url(pexels-antonio-borriello-1297611.jpg) no-repeat center;
     background-size: cover;
-    height: 700px;
+    height: 660px;
 
 }
 .container
@@ -107,3 +107,10 @@ h2{
     text-align: center;
 
 }
+
+input[type=text] {
+    align-items: center;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+  }
+  
